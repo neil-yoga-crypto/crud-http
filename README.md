@@ -1,4 +1,2 @@
 # crud-http
-Simply CREATE, READ, UPDATE and DELETE with REST and Node.
-
-Intented as an easy starting point for your own library to save you some time.
+Part of https://github.com/neil-yoga/crud-true-power
